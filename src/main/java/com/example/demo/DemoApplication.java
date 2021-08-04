@@ -11,6 +11,8 @@ public class DemoApplication {
 
 		System.out.println("Hola mundo");
 
+		System.out.println("Mensaje");
+
 	}
 
 }
